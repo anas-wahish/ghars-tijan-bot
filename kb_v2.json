@@ -1,0 +1,577 @@
+{
+  "agency": "GHARS TIJAN TRAVEL",
+  "languages": [
+    "ar",
+    "fr",
+    "en"
+  ],
+  "version": "2.0",
+  "method": "bloc par bloc, valide par le proprietaire",
+  "chunk_count": 17,
+  "chunks": [
+    {
+      "id": "BLOC_01_INFOS_GENERALES",
+      "bloc": 1,
+      "category": "identite",
+      "validated_by_owner": true,
+      "ar": {
+        "title": "معلومات عامة عن الوكالة",
+        "content": "- الاسم التجاري باللاتينية: GHARS TIJAN TRAVEL\n- الاسم بالعربية: وكالة غرس التيجان للحج والعمرة والسياحة\n- نوع النشاط: وكالة أسفار / حج وعمرة وسياحة\n- السوق الرئيسي: المغرب\n- الوجهات الرئيسية: المملكة العربية السعودية، خصوصًا مكة المكرمة والمدينة المنورة"
+      },
+      "fr": {
+        "title": "Informations générales de l'agence",
+        "content": "- Nom commercial en caractères latins : GHARS TIJAN TRAVEL\n- Nom en arabe : وكالة غرس التيجان للحج والعمرة والسياحة\n- Type d'activité : agence de voyages / Hajj, Omra et tourisme\n- Marché principal : le Maroc\n- Destinations principales : le Royaume d'Arabie Saoudite, en particulier La Mecque et Médine"
+      },
+      "en": {
+        "title": "General information about the agency",
+        "content": "- Trade name in Latin script: GHARS TIJAN TRAVEL\n- Name in Arabic: وكالة غرس التيجان للحج والعمرة والسياحة\n- Type of business: travel agency / Hajj, Umrah and tourism\n- Main market: Morocco\n- Main destinations: the Kingdom of Saudi Arabia, particularly Makkah and Madinah"
+      }
+    },
+    {
+      "id": "BLOC_02_IDENTITE_AGENCE",
+      "bloc": 2,
+      "category": "identite",
+      "validated_by_owner": true,
+      "ar": {
+        "title": "هوية الوكالة",
+        "content": "الاسم الرسمي: وكالة غرس التيجان للحج والعمرة والسياحة\nالاسم التجاري: GHARS TIJAN TRAVEL\n\nطبيعة النشاط — الوكالة تعمل في مجال:\n- تنظيم رحلات العمرة.\n- تنظيم مجموعات المعتمرين.\n- تنظيم البرامج الموسمية.\n- الإقامة في مكة المكرمة والمدينة المنورة.\n- النقل.\n- التأطير والمرافقة.\n- الزيارات والمزارات.\n- التنسيق مع الفنادق.\n- التنسيق مع شركاء النقل في السعودية.\n- العلاقات المهنية مع شركات الطيران والوكالات.\n- السياحة، حسب الخدمات والبرامج المتوفرة."
+      },
+      "fr": {
+        "title": "Identité de l'agence",
+        "content": "Nom officiel : وكالة غرس التيجان للحج والعمرة والسياحة\nNom commercial : GHARS TIJAN TRAVEL\n\nNature de l'activité — l'agence exerce dans les domaines suivants :\n- Organisation de voyages de Omra.\n- Organisation de groupes de pèlerins (mu'tamirin).\n- Organisation de programmes saisonniers.\n- Hébergement à La Mecque et à Médine.\n- Transport.\n- Encadrement et accompagnement.\n- Visites et sites religieux.\n- Coordination avec les hôtels.\n- Coordination avec les partenaires de transport en Arabie Saoudite.\n- Relations professionnelles avec les compagnies aériennes et les agences.\n- Tourisme, selon les services et programmes disponibles."
+      },
+      "en": {
+        "title": "Agency identity",
+        "content": "Official name: وكالة غرس التيجان للحج والعمرة والسياحة\nTrade name: GHARS TIJAN TRAVEL\n\nNature of activity — the agency operates in the following areas:\n- Organising Umrah trips.\n- Organising groups of Umrah pilgrims.\n- Organising seasonal programmes.\n- Accommodation in Makkah and Madinah.\n- Transport.\n- Supervision and accompaniment.\n- Religious visits and sites.\n- Coordination with hotels.\n- Coordination with transport partners in Saudi Arabia.\n- Professional relations with airlines and agencies.\n- Tourism, depending on available services and programmes."
+      }
+    },
+    {
+      "id": "BLOC_03_EMPLACEMENT_GEOGRAPHIQUE",
+      "bloc": 3,
+      "category": "infos_pratiques",
+      "validated_by_owner": true,
+      "dynamic_fields": {
+        "google_rating": {
+          "source": "Google Places API - Place Details (champ rating)",
+          "refresh": "1x/jour via tache planifiee",
+          "fallback": "5.0"
+        },
+        "google_reviews_count": {
+          "source": "Google Places API - Place Details (champ userRatingCount)",
+          "refresh": "1x/jour via tache planifiee",
+          "fallback": "3"
+        }
+      },
+      "ar": {
+        "title": "الموقع الجغرافي",
+        "content": "مقر الوكالة:\n37 Avenue Mohamed Bouziane، حي البركة، الدار البيضاء 20022، المغرب\n\nالموقع الظاهر في بيانات Google Business باسم GHARS TIJAN TRAVEL.\n\nوصف الموقع:\nالطابق MG، BELHASSAN OUAZZANI، مقابل Groupe Scolaire Ajyalona، حي BARAKA.\n\nبيانات Google Business:\n- اسم النشاط: GHARS TIJAN TRAVEL\n- التصنيف: Travel Agency\n- التقييم: {{google_rating}} / 5 (يتم تحديثه تلقائيًا من Google Business)\n- عدد التقييمات: {{google_reviews_count}}"
+      },
+      "fr": {
+        "title": "Emplacement géographique",
+        "content": "Siège de l'agence :\n37 Avenue Mohamed Bouziane, quartier El Baraka, Casablanca 20022, Maroc\n\nL'établissement apparaît dans Google Business sous le nom GHARS TIJAN TRAVEL.\n\nDescription de l'emplacement :\nÉtage MG, Belhassan Ouazzani, en face du Groupe Scolaire Ajyalona, quartier El Baraka.\n\nDonnées Google Business :\n- Nom de l'établissement : GHARS TIJAN TRAVEL\n- Catégorie : Travel Agency (agence de voyages)\n- Note : {{google_rating}} / 5 (mise à jour automatique depuis Google Business)\n- Nombre d'avis : {{google_reviews_count}}"
+      },
+      "en": {
+        "title": "Location",
+        "content": "Agency office:\n37 Avenue Mohamed Bouziane, El Baraka district, Casablanca 20022, Morocco\n\nThe business appears on Google Business under the name GHARS TIJAN TRAVEL.\n\nLocation description:\nMG floor, Belhassan Ouazzani, opposite Groupe Scolaire Ajyalona, El Baraka district.\n\nGoogle Business data:\n- Business name: GHARS TIJAN TRAVEL\n- Category: Travel Agency\n- Rating: {{google_rating}} / 5 (auto-updated from Google Business)\n- Number of reviews: {{google_reviews_count}}"
+      }
+    },
+    {
+      "id": "BLOC_04_COORDONNEES",
+      "bloc": 4,
+      "category": "infos_pratiques",
+      "validated_by_owner": true,
+      "structured": {
+        "phone_main": "0529153030",
+        "phones_booking": [
+          "0700058916",
+          "0700058919",
+          "0529153030"
+        ],
+        "phones_international": [
+          "+212 700058916",
+          "+212 700058919",
+          "+212 529153030"
+        ],
+        "email": "ghars.tijan@outlook.com"
+      },
+      "ar": {
+        "title": "بيانات الاتصال",
+        "content": "الهاتف\n\nالرقم الرئيسي:\n0529153030\n\nأرقام الحجز والاستفسار:\n- 0700058916\n- 0700058919\n- 0529153030\n\nالصيغة الدولية:\n- +212 700058916\n- +212 700058919\n- +212 529153030\n\nالبريد الإلكتروني:\nghars.tijan@outlook.com"
+      },
+      "fr": {
+        "title": "Les coordonnées",
+        "content": "Téléphone\n\nNuméro principal :\n0529153030\n\nNuméros de réservation et de renseignements :\n- 0700058916\n- 0700058919\n- 0529153030\n\nFormat international :\n- +212 700058916\n- +212 700058919\n- +212 529153030\n\nE-mail :\nghars.tijan@outlook.com"
+      },
+      "en": {
+        "title": "Contact details",
+        "content": "Phone\n\nMain number:\n0529153030\n\nBooking and enquiry numbers:\n- 0700058916\n- 0700058919\n- 0529153030\n\nInternational format:\n- +212 700058916\n- +212 700058919\n- +212 529153030\n\nEmail:\nghars.tijan@outlook.com"
+      }
+    },
+    {
+      "id": "BLOC_05_MEDIAS_SOCIAUX",
+      "bloc": 5,
+      "category": "infos_pratiques",
+      "validated_by_owner": true,
+      "structured": {
+        "facebook": "https://www.facebook.com/share/18A9j68sL7/",
+        "instagram": "https://www.instagram.com/gharstijan",
+        "tiktok": "https://www.tiktok.com/@user3760399756793",
+        "whatsapp": "https://wa.me/212700058916"
+      },
+      "todo": [
+        "Changer le pseudo TikTok @user3760399756793 en @gharstijan, puis mettre a jour le lien",
+        "Recuperer l'URL canonique de la page Facebook a la place du lien de partage"
+      ],
+      "ar": {
+        "title": "وسائل التواصل الاجتماعي",
+        "content": "- Facebook: https://www.facebook.com/share/18A9j68sL7/\n- Instagram: https://www.instagram.com/gharstijan\n- TikTok: https://www.tiktok.com/@user3760399756793\n- WhatsApp: https://wa.me/212700058916"
+      },
+      "fr": {
+        "title": "Médias sociaux",
+        "content": "- Facebook : https://www.facebook.com/share/18A9j68sL7/\n- Instagram : https://www.instagram.com/gharstijan\n- TikTok : https://www.tiktok.com/@user3760399756793\n- WhatsApp : https://wa.me/212700058916"
+      },
+      "en": {
+        "title": "Social media",
+        "content": "- Facebook: https://www.facebook.com/share/18A9j68sL7/\n- Instagram: https://www.instagram.com/gharstijan\n- TikTok: https://www.tiktok.com/@user3760399756793\n- WhatsApp: https://wa.me/212700058916"
+      }
+    },
+    {
+      "id": "BLOC_06_HORAIRES_TRAVAIL",
+      "bloc": 6,
+      "category": "infos_pratiques",
+      "validated_by_owner": true,
+      "internal_note": "Source d'origine : Google Business. NE PAS mentionner cette provenance dans les reponses au client (demande explicite du proprietaire). Dimanche = ferme, confirme par le proprietaire.",
+      "structured": {
+        "lundi": "09:00-12:30 / 15:00-19:00",
+        "mardi": "09:00-12:30 / 15:00-19:00",
+        "mercredi": "09:00-12:30 / 15:00-19:00",
+        "jeudi": "09:00-12:30 / 15:00-19:00",
+        "vendredi": "09:00-12:00 / 15:00-19:00",
+        "samedi": "09:00-18:00",
+        "dimanche": "ferme"
+      },
+      "ar": {
+        "title": "ساعات العمل",
+        "content": "- الإثنين: 09:00–12:30 / 15:00–19:00\n- الثلاثاء: 09:00–12:30 / 15:00–19:00\n- الأربعاء: 09:00–12:30 / 15:00–19:00\n- الخميس: 09:00–12:30 / 15:00–19:00\n- الجمعة: 09:00–12:00 / 15:00–19:00\n- السبت: 09:00–18:00\n- الأحد: مغلق"
+      },
+      "fr": {
+        "title": "Horaires de travail",
+        "content": "- Lundi : 09h00–12h30 / 15h00–19h00\n- Mardi : 09h00–12h30 / 15h00–19h00\n- Mercredi : 09h00–12h30 / 15h00–19h00\n- Jeudi : 09h00–12h30 / 15h00–19h00\n- Vendredi : 09h00–12h00 / 15h00–19h00\n- Samedi : 09h00–18h00\n- Dimanche : fermé"
+      },
+      "en": {
+        "title": "Opening hours",
+        "content": "- Monday: 09:00–12:30 / 15:00–19:00\n- Tuesday: 09:00–12:30 / 15:00–19:00\n- Wednesday: 09:00–12:30 / 15:00–19:00\n- Thursday: 09:00–12:30 / 15:00–19:00\n- Friday: 09:00–12:00 / 15:00–19:00\n- Saturday: 09:00–18:00\n- Sunday: closed"
+      }
+    },
+    {
+      "id": "BLOC_08_LISTE_PROGRAMMES",
+      "bloc": 8,
+      "category": "programmes",
+      "validated_by_owner": true,
+      "structured": {
+        "programmes": [
+          "عمرة المولد",
+          "عمرة شتنبر",
+          "عمرة رمضان",
+          "برامج عمرة أخرى حسب الموسم"
+        ]
+      },
+      "internal_note": "La regle « يجب ربط كل برنامج بالسنة والتاريخ والسعر » du document source a ete deplacee vers prompt_systeme.md (c'est une regle, pas une donnee client).",
+      "ar": {
+        "title": "برامج الوكالة",
+        "content": "توجد برامج عمرة موسمية متعددة، ومن البرامج التي تم العمل عليها:\n- عمرة المولد.\n- عمرة شتنبر.\n- عمرة رمضان.\n- برامج عمرة أخرى حسب الموسم."
+      },
+      "fr": {
+        "title": "Programmes de l'agence",
+        "content": "L'agence propose plusieurs programmes de Omra saisonniers. Parmi les programmes déjà mis en place :\n- Omra du Mawlid.\n- Omra de septembre.\n- Omra de Ramadan.\n- D'autres programmes de Omra selon la saison."
+      },
+      "en": {
+        "title": "Agency programmes",
+        "content": "The agency offers several seasonal Umrah programmes. Among those already run:\n- Mawlid Umrah.\n- September Umrah.\n- Ramadan Umrah.\n- Other Umrah programmes depending on the season."
+      }
+    },
+    {
+      "id": "BLOC_09_OMRA_RAMADAN_1448_2027",
+      "bloc": 9,
+      "category": "programmes",
+      "validated_by_owner": true,
+      "statut": "ACTIVE",
+      "structured": {
+        "saison": "رمضان / Ramadan",
+        "annee_hijri": 1448,
+        "annee_gregorienne": 2027,
+        "date_depart": "2027-01-31",
+        "date_retour": "2027-03-20",
+        "duree_jours": 48,
+        "prix_min_mad": 22000,
+        "prix_base": "par personne",
+        "vol": {
+          "compagnie": null,
+          "vol_aller": null,
+          "vol_retour": null,
+          "date_aller": "2027-01-31",
+          "date_retour": "2027-03-20",
+          "bagages": null,
+          "type_vol_نوع_الرحلة": null,
+          "heure_decollage": null,
+          "heure_arrivee": null
+        },
+        "transport": {
+          "aeroports": null,
+          "entre_villes": null,
+          "vers_hotels": null,
+          "pour_visites": null,
+          "deplacements_groupe": null
+        }
+      },
+      "internal_note": "Duree corrigee de 47 a 48 jours (decision D1) : le document source indiquait 47, mais le vol aller est le 31/01/2027 et le retour le 20/03/2027.",
+      "ar": {
+        "title": "عمرة رمضان 1448هـ / 2027",
+        "content": "الفترة: من 31 يناير 2027 إلى 20 مارس 2027.\nتاريخ رحلة الذهاب: 31 يناير 2027.\nتاريخ رحلة العودة: 20 مارس 2027.\nالمدة: 48 يومًا.\nالسعر الابتدائي: ابتداءً من 22.000 درهم للفرد الواحد."
+      },
+      "fr": {
+        "title": "Omra de Ramadan 1448 H / 2027",
+        "content": "Période : du 31 janvier 2027 au 20 mars 2027.\nDate du vol aller : 31 janvier 2027.\nDate du vol retour : 20 mars 2027.\nDurée : 48 jours.\nPrix de départ : à partir de 22 000 DH par personne."
+      },
+      "en": {
+        "title": "Ramadan Umrah 1448 AH / 2027",
+        "content": "Period: from 31 January 2027 to 20 March 2027.\nOutbound flight date: 31 January 2027.\nReturn flight date: 20 March 2027.\nDuration: 48 days.\nStarting price: from 22,000 DH per person."
+      }
+    },
+    {
+      "id": "BLOC_10_RAMADAN_ECONOMIQUE",
+      "bloc": 10,
+      "category": "programmes",
+      "validated_by_owner": true,
+      "statut": "ACTIVE",
+      "parent": "BLOC_09_OMRA_RAMADAN_1448_2027",
+      "structured": {
+        "saison": "رمضان / Ramadan",
+        "formule": "اقتصادي / Économique / Economy",
+        "prix_base": "par personne",
+        "devise": "MAD",
+        "prix_par_personne": {
+          "chambre_2": 29500,
+          "chambre_3": 26000,
+          "chambre_4": 24000,
+          "chambre_5": 23000,
+          "chambre_6": 22000
+        },
+        "hebergement": {
+          "medine": {
+            "zone": "منطقة مركزية / zone centrale",
+            "distance": "~200 m du Masjid An-Nabawi"
+          },
+          "mecque": {
+            "zone": "وحدات الخير — حي التيسير",
+            "distance": "~1000 m du Haram"
+          }
+        },
+        "vol": {
+          "compagnie": null,
+          "vol_aller": null,
+          "vol_retour": null,
+          "date_aller": "2027-01-31",
+          "date_retour": "2027-03-20",
+          "bagages": null,
+          "type_vol_نوع_الرحلة": null,
+          "heure_decollage": null,
+          "heure_arrivee": null
+        },
+        "transport": {
+          "aeroports": null,
+          "entre_villes": null,
+          "vers_hotels": null,
+          "pour_visites": null,
+          "deplacements_groupe": null
+        }
+      },
+      "internal_note": "Decisions D2 et D3 appliquees : tarifs confirmes par l'agence, le bot peut les annoncer. Ce sont des prix PAR PERSONNE avec remise degressive selon le nombre de personnes partageant la chambre.",
+      "ar": {
+        "title": "برنامج رمضان الاقتصادي",
+        "content": "الإقامة\n\nالمدينة المنورة: منطقة مركزية. المسافة المذكورة: حوالي 200 متر من المسجد النبوي.\nمكة المكرمة: وحدات الخير — حي التيسير. المسافة المذكورة: حوالي 1000 متر من الحرم.\n\nالأسعار للفرد الواحد، حسب عدد الأشخاص في الغرفة:\n- ثنائي (شخصان): 29.500 درهم للفرد\n- ثلاثي (3 أشخاص): 26.000 درهم للفرد\n- رباعي (4 أشخاص): 24.000 درهم للفرد\n- خماسي (5 أشخاص): 23.000 درهم للفرد\n- سداسي (6 أشخاص): 22.000 درهم للفرد\n\nكلما زاد عدد الأشخاص في الغرفة، انخفض السعر للفرد الواحد."
+      },
+      "fr": {
+        "title": "Programme Ramadan Économique",
+        "content": "Hébergement\n\nMédine : zone centrale. Distance indiquée : environ 200 mètres de la Mosquée du Prophète.\nLa Mecque : Wahdat Al-Khair — quartier At-Taysir. Distance indiquée : environ 1000 mètres du Haram.\n\nTarifs par personne, selon le nombre de personnes partageant la chambre :\n- Chambre de 2 personnes : 29 500 DH par personne\n- Chambre de 3 personnes : 26 000 DH par personne\n- Chambre de 4 personnes : 24 000 DH par personne\n- Chambre de 5 personnes : 23 000 DH par personne\n- Chambre de 6 personnes : 22 000 DH par personne\n\nPlus la chambre est partagée, plus le prix par personne diminue."
+      },
+      "en": {
+        "title": "Ramadan Economy Programme",
+        "content": "Accommodation\n\nMadinah: central area. Stated distance: about 200 metres from the Prophet's Mosque.\nMakkah: Wahdat Al-Khair — At-Taysir district. Stated distance: about 1000 metres from the Haram.\n\nPrices per person, based on the number of people sharing the room:\n- Room of 2: 29,500 DH per person\n- Room of 3: 26,000 DH per person\n- Room of 4: 24,000 DH per person\n- Room of 5: 23,000 DH per person\n- Room of 6: 22,000 DH per person\n\nThe more people share a room, the lower the price per person."
+      }
+    },
+    {
+      "id": "BLOC_11_OMRA_MAWLID_2026",
+      "bloc": 11,
+      "category": "programmes",
+      "validated_by_owner": true,
+      "statut": "EXPIRED",
+      "structured": {
+        "saison": "المولد / Mawlid",
+        "annee_gregorienne": 2026,
+        "date_mawlid_maroc": "2026-08-25",
+        "date_depart": null,
+        "date_retour": null,
+        "prix_mad": null,
+        "aeroport_depart": "Mohammed V (Casablanca)",
+        "hebergement": "non renseigne - a fournir par l'agence",
+        "inclus": [
+          "Voyage depuis le Maroc",
+          "Depart aeroport Mohammed V",
+          "Accueil et accompagnement",
+          "Hebergement a La Mecque et Medine",
+          "Visites",
+          "Encadrement",
+          "Ihram au miqat selon itineraire"
+        ],
+        "vol": {
+          "compagnie": null,
+          "vol_aller": null,
+          "vol_retour": null,
+          "date_aller": null,
+          "date_retour": null,
+          "bagages": null,
+          "type_vol_نوع_الرحلة": null,
+          "heure_decollage": null,
+          "heure_arrivee": null
+        },
+        "transport": {
+          "aeroports": null,
+          "entre_villes": null,
+          "vers_hotels": null,
+          "pour_visites": null,
+          "deplacements_groupe": null
+        }
+      },
+      "internal_note": "Statut EXPIRED : le Mawlid 1448 est tombe le 25/08/2026 au Maroc (confirme par le ministere des Habous). Date et prix definitifs absents du document source, non reconstitues volontairement. Hotels non attribuables depuis le bloc 12 (liste globale sans correspondance programme->hotel).",
+      "ar": {
+        "title": "عمرة المولد 2026",
+        "content": "الحالة: منتهي — أُنجز هذا البرنامج في غشت 2026 (المولد النبوي: 25 غشت 2026).\n\nنظمت الوكالة برنامجًا خاصًا بعمرة المولد.\n\nعناصر البرنامج:\n- السفر من المغرب.\n- الانطلاق من مطار محمد الخامس.\n- استقبال ومرافقة المعتمرين.\n- الإقامة في مكة والمدينة.\n- الزيارات.\n- التأطير.\n- الإحرام من الميقات حسب مسار الرحلة.\n\nالتاريخ النهائي والسعر النهائي لم يُدرجا في هذا البرنامج."
+      },
+      "fr": {
+        "title": "Omra du Mawlid 2026",
+        "content": "Statut : terminé — ce programme s'est déroulé en août 2026 (Mawlid : 25 août 2026).\n\nL'agence a organisé un programme spécifique pour la Omra du Mawlid.\n\nÉléments du programme :\n- Voyage depuis le Maroc.\n- Départ de l'aéroport Mohammed V.\n- Accueil et accompagnement des pèlerins.\n- Hébergement à La Mecque et à Médine.\n- Visites.\n- Encadrement.\n- Mise en état d'ihram au miqat selon l'itinéraire du voyage.\n\nLa date définitive et le prix définitif n'ont pas été renseignés pour ce programme."
+      },
+      "en": {
+        "title": "Mawlid Umrah 2026",
+        "content": "Status: completed — this programme took place in August 2026 (Mawlid: 25 August 2026).\n\nThe agency organised a dedicated Mawlid Umrah programme.\n\nProgramme elements:\n- Travel from Morocco.\n- Departure from Mohammed V Airport.\n- Reception and accompaniment of pilgrims.\n- Accommodation in Makkah and Madinah.\n- Religious visits.\n- Supervision.\n- Entering ihram at the miqat according to the trip itinerary.\n\nThe final date and final price were not recorded for this programme."
+      }
+    },
+    {
+      "id": "BLOC_12_HOTELS_HEBERGEMENTS",
+      "bloc": 12,
+      "category": "services",
+      "validated_by_owner": true,
+      "structured": {
+        "mecque": [
+          "Amjad Hospitality",
+          "Saraya Hospitality",
+          "Anjum Hotel",
+          "وحدات الخير — حي التيسير",
+          "جادة الخليل — شارع إبراهيم الخليل"
+        ],
+        "medine": [
+          {
+            "nom": null,
+            "zone": "منطقة مركزية / zone centrale",
+            "distance": "~200 m du Masjid An-Nabawi"
+          }
+        ],
+        "correspondances_connues": {
+          "BLOC_10_RAMADAN_ECONOMIQUE": {
+            "mecque": "وحدات الخير — حي التيسير",
+            "medine": "zone centrale ~200 m"
+          }
+        },
+        "non_attribues": [
+          "Amjad Hospitality",
+          "Saraya Hospitality",
+          "Anjum Hotel",
+          "جادة الخليل — شارع إبراهيم الخليل"
+        ]
+      },
+      "internal_note": "La consigne technique du document source (« يجب أن يبحث الشات بوت عن الفندق المرتبط بالبرنامج المحدد ») est deplacee vers prompt_systeme.md en tant que R3. MANQUE : le tableau de correspondance programme -> hotel. 4 hotels restent non attribues ; aucun nom d'etablissement pour Medine.",
+      "ar": {
+        "title": "الفنادق والإقامات",
+        "content": "وردت في البرامج السابقة عدة خيارات.\n\nمكة المكرمة:\n- Amjad Hospitality.\n- Saraya Hospitality.\n- Anjum Hotel.\n- وحدات الخير — حي التيسير.\n- جادة الخليل — شارع إبراهيم الخليل.\n\nالمدينة المنورة:\nبعض البرامج تعتمد إقامة في منطقة مركزية بحوالي 200 متر من المسجد النبوي.\n\nالفندق ليس ثابتًا لكل برامج الوكالة، ويختلف حسب البرنامج المختار."
+      },
+      "fr": {
+        "title": "Hôtels et hébergements",
+        "content": "Plusieurs options ont été proposées dans les programmes précédents.\n\nLa Mecque :\n- Amjad Hospitality.\n- Saraya Hospitality.\n- Anjum Hotel.\n- Wahdat Al-Khair — quartier At-Taysir.\n- Jadat Al-Khalil — rue Ibrahim Al-Khalil.\n\nMédine :\nCertains programmes prévoient un hébergement en zone centrale, à environ 200 mètres de la Mosquée du Prophète.\n\nL'hôtel n'est pas le même pour tous les programmes de l'agence : il varie selon le programme choisi."
+      },
+      "en": {
+        "title": "Hotels and accommodation",
+        "content": "Several options have been offered in previous programmes.\n\nMakkah:\n- Amjad Hospitality.\n- Saraya Hospitality.\n- Anjum Hotel.\n- Wahdat Al-Khair — At-Taysir district.\n- Jadat Al-Khalil — Ibrahim Al-Khalil Street.\n\nMadinah:\nSome programmes use accommodation in a central area, about 200 metres from the Prophet's Mosque.\n\nThe hotel is not the same across all agency programmes: it varies depending on the programme chosen."
+      }
+    },
+    {
+      "id": "BLOC_13_TRANSPORT_AERIEN",
+      "bloc": 13,
+      "category": "services",
+      "validated_by_owner": true,
+      "internal_note": "Les 9 champs de vol ne sont PAS stockes ici : ils sont dans l'objet `vol` de CHAQUE programme. La specification des champs et la regle conditionnelle sont dans prompt_systeme.md (R4). Interdiction absolue d'inventer une donnee de vol (« ولا يجوز للشات بوت اختراع أي منها »).",
+      "ar": {
+        "title": "الطيران",
+        "content": "بعض البرامج تُقدَّم بميزة الطيران المباشر.\n\nشركة الطيران ومواعيد الرحلات تختلف حسب البرنامج."
+      },
+      "fr": {
+        "title": "Transport aérien",
+        "content": "Certains programmes sont proposés avec un vol direct.\n\nLa compagnie aérienne et les horaires varient selon le programme."
+      },
+      "en": {
+        "title": "Flights",
+        "content": "Some programmes are offered with a direct flight.\n\nThe airline and flight times vary depending on the programme."
+      }
+    },
+    {
+      "id": "BLOC_14_TRANSPORT",
+      "bloc": 14,
+      "category": "services",
+      "validated_by_owner": true,
+      "internal_note": "Catalogue des services possibles uniquement. Ce qui est reellement inclus est stocke dans l'objet `transport` de CHAQUE programme (true / false / null). Regle conditionnelle : prompt_systeme.md R5.",
+      "ar": {
+        "title": "النقل",
+        "content": "حسب البرنامج، يمكن أن تشمل الخدمات:\n- النقل من وإلى المطارات.\n- النقل بين المدن.\n- النقل إلى الفنادق.\n- النقل المرتبط بالزيارات.\n- التنقلات الخاصة بالمجموعة.\n\nالخدمات المشمولة تختلف من برنامج إلى آخر."
+      },
+      "fr": {
+        "title": "Transport",
+        "content": "Selon le programme, les services peuvent inclure :\n- Les transferts depuis et vers les aéroports.\n- Le transport entre les villes.\n- Le transport vers les hôtels.\n- Le transport lié aux visites.\n- Les déplacements propres au groupe.\n\nLes services inclus varient d'un programme à l'autre."
+      },
+      "en": {
+        "title": "Transport",
+        "content": "Depending on the programme, services may include:\n- Airport transfers.\n- Intercity transport.\n- Transport to hotels.\n- Transport for religious visits.\n- Group-specific transfers.\n\nIncluded services vary from one programme to another."
+      }
+    },
+    {
+      "id": "BLOC_15_ENCADREMENT_ACCOMPAGNEMENT",
+      "bloc": 15,
+      "category": "services",
+      "validated_by_owner": true,
+      "ton": "commercial",
+      "structured": {
+        "services_essentiels": [
+          "مرافقة المجموعات",
+          "التأطير",
+          "تنظيم الرحلة",
+          "مساعدة المعتمرين",
+          "التنسيق خلال الإقامة",
+          "التواصل مع المعتمرين"
+        ],
+        "conditionnel": false
+      },
+      "internal_note": "Version commerciale validee par le proprietaire. Contenu strictement fidele aux 6 services de la source, seule la formulation est valorisante. A FAIRE VERIFIER PAR L'AGENCE avant mise en ligne : (1) un accompagnateur est-il present en permanence ? (2) existe-t-il un canal de contact reel pendant le sejour (WhatsApp groupe, numero d'urgence sur place) ? Si non, adoucir les formulations concernees.",
+      "ar": {
+        "title": "التأطير والمرافقة",
+        "content": "في وكالة غرس التيجان، لا تسافرون وحدكم.\n\nمن الخدمات الأساسية في جميع برامجنا:\n- مرافقة المجموعات — فريق يرافقكم طيلة الرحلة.\n- التأطير — توجيه وتنظيم في كل مرحلة.\n- تنظيم الرحلة — كل التفاصيل مُعدَّة سلفًا.\n- مساعدة المعتمرين — دعم مباشر عند الحاجة.\n- التنسيق خلال الإقامة — متابعة يومية في مكة والمدينة.\n- التواصل مع المعتمرين — نبقى على اتصال بكم من الانطلاق إلى العودة."
+      },
+      "fr": {
+        "title": "Encadrement et accompagnement",
+        "content": "Chez Ghars Tijan, vous ne voyagez jamais seul.\n\nServices essentiels, présents dans tous nos programmes :\n- Accompagnement des groupes — une équipe à vos côtés durant tout le voyage.\n- Encadrement — orientation et organisation à chaque étape.\n- Organisation du voyage — tous les détails préparés en amont.\n- Assistance aux pèlerins — un appui direct dès que vous en avez besoin.\n- Coordination durant le séjour — un suivi quotidien à La Mecque et à Médine.\n- Communication continue — nous restons joignables, du départ au retour."
+      },
+      "en": {
+        "title": "Supervision and accompaniment",
+        "content": "At Ghars Tijan, you never travel alone.\n\nCore services, included in all our programmes:\n- Group accompaniment — a team by your side throughout the journey.\n- Supervision — guidance and organisation at every stage.\n- Trip organisation — every detail arranged in advance.\n- Pilgrim assistance — direct support whenever you need it.\n- Coordination during the stay — daily follow-up in Makkah and Madinah.\n- Ongoing communication — we stay reachable, from departure to return."
+      }
+    },
+    {
+      "id": "BLOC_16_VISITES_MAZARAT",
+      "bloc": 16,
+      "category": "services",
+      "validated_by_owner": true,
+      "structured": {
+        "sites_nommes": [],
+        "mentions_historiques": [
+          {
+            "lieu": "الطائف / Taif",
+            "nature": "excursion organisee dans certains programmes (passe)"
+          },
+          {
+            "lieu": "ميقات قرن المنازل / Qarn al-Manazil",
+            "nature": "ihram pris dans UN programme, selon l'itineraire (passe)"
+          }
+        ],
+        "conditionnel": true
+      },
+      "internal_note": "BLOC LE PLUS VAGUE DE LA BASE. Aucun site nomme a La Mecque ni a Medine : le bot ne pourra pas repondre a « شنو غادي نزورو؟ » autrement qu'en renvoyant a l'agence (R2). Taif et Qarn al-Manazil sont des faits PASSES (تم), pas des offres : ne jamais les presenter au present comme des prestations garanties. RECOMMANDATION : ajouter un objet `visites` par programme avec les sites reellement prevus.",
+      "ar": {
+        "title": "الزيارات والمزارات",
+        "content": "تختلف الزيارات حسب البرنامج وخط سير المجموعة.\n\n- مكة المكرمة: زيارات ومزارات حسب البرنامج.\n- المدينة المنورة: زيارات ومزارات حسب البرنامج.\n- الطائف: نُظِّمت في بعض البرامج جولة مع المعتمرين في مدينة الطائف.\n- الميقات: تم في أحد البرامج الإحرام بالعمرة من ميقات قرن المنازل، بحسب خط سير المجموعة."
+      },
+      "fr": {
+        "title": "Visites et sites religieux",
+        "content": "Les visites varient selon le programme et l'itinéraire du groupe.\n\n- La Mecque : visites et sites selon le programme.\n- Médine : visites et sites selon le programme.\n- Taïf : une excursion à Taïf a été organisée avec les pèlerins dans certains programmes.\n- Miqat : dans l'un des programmes, l'ihram pour la Omra a été pris au miqat de Qarn al-Manazil, selon l'itinéraire du groupe."
+      },
+      "en": {
+        "title": "Religious visits and sites",
+        "content": "Visits vary depending on the programme and the group's itinerary.\n\n- Makkah: visits and sites depending on the programme.\n- Madinah: visits and sites depending on the programme.\n- Taif: an excursion to Taif was organised with pilgrims on some programmes.\n- Miqat: on one programme, ihram for Umrah was taken at the Qarn al-Manazil miqat, according to the group's itinerary."
+      }
+    },
+    {
+      "id": "BLOC_17_OBJECTIFS_AGENCE",
+      "bloc": 17,
+      "category": "identite",
+      "validated_by_owner": true,
+      "audience": "interne",
+      "internal_note": "BLOC INTERNE - ne jamais reciter tel quel a un client. La source dit « يمكن اعتمادها مبدئيًا » : objectifs provisoires, non definitivement valides par l'agence. Les 3 derniers points (partenariats, developpement des services, presence numerique) sont purement internes. Une version distillee en orientation de comportement figure dans prompt_systeme.md (R6).",
+      "ar": {
+        "title": "أهداف الوكالة",
+        "content": "الأهداف التي يمكن اعتمادها مبدئيًا:\n- تنظيم برامج عمرة متكاملة.\n- توفير خيارات مختلفة للزبناء.\n- خدمة المعتمرين ومرافقتهم.\n- تحسين تجربة السفر والإقامة.\n- توفير التأطير والتنظيم.\n- تطوير الخدمات.\n- بناء شراكات مهنية.\n- تقديم خدمة سريعة للعملاء.\n- تطوير الحضور الرقمي للوكالة."
+      },
+      "fr": {
+        "title": "Objectifs de l'agence",
+        "content": "Objectifs pouvant être retenus à titre initial :\n- Organiser des programmes de Omra complets.\n- Proposer différentes options aux clients.\n- Servir et accompagner les pèlerins.\n- Améliorer l'expérience de voyage et de séjour.\n- Assurer l'encadrement et l'organisation.\n- Développer les services.\n- Construire des partenariats professionnels.\n- Offrir un service client rapide.\n- Développer la présence numérique de l'agence."
+      },
+      "en": {
+        "title": "Agency objectives",
+        "content": "Objectives that may initially be adopted:\n- Organise complete Umrah programmes.\n- Offer customers a range of options.\n- Serve and accompany pilgrims.\n- Improve the travel and accommodation experience.\n- Provide supervision and organisation.\n- Develop services.\n- Build professional partnerships.\n- Deliver fast customer service.\n- Grow the agency's digital presence."
+      }
+    },
+    {
+      "id": "BLOC_18_STRUCTURE_INTERNE",
+      "bloc": 18,
+      "category": "identite",
+      "validated_by_owner": true,
+      "audience": "interne",
+      "structured": {
+        "domaines": {
+          "administration": [
+            "الشؤون الإدارية والتنظيمية"
+          ],
+          "relations_professionnelles": [
+            "شركات الطيران",
+            "الوكالات",
+            "B2B",
+            "الشركاء"
+          ],
+          "programmes_et_marketing": [
+            "إعداد البرامج",
+            "Facebook",
+            "Instagram",
+            "TikTok",
+            "الإعلانات",
+            "المحتوى"
+          ],
+          "coordination_groupes": [
+            "المعتمرون",
+            "الفنادق",
+            "النقل",
+            "التنسيق في السعودية"
+          ]
+        }
+      },
+      "internal_note": "BLOC INTERNE - organigramme, aucune valeur pour un client. Ne jamais divulguer : B2B, الشركاء, الإعلانات (strategie commerciale). Rien a distiller vers prompt_systeme.md : un organigramme n'oriente pas le ton des reponses. Coquille corrigee par rapport a la source : Facebook/Instagram/TikTok y etaient indentes sous « إعداد البرامج », rattaches ici au marketing.",
+      "ar": {
+        "title": "الهيكلة الداخلية",
+        "content": "تم تحديد أربعة مجالات رئيسية:\n\nالإدارة\n- الشؤون الإدارية والتنظيمية.\n\nالعلاقات المهنية\n- شركات الطيران.\n- الوكالات.\n- B2B.\n- الشركاء.\n\nالبرامج والتسويق\n- إعداد البرامج.\n- التسويق: Facebook، Instagram، TikTok.\n- الإعلانات.\n- المحتوى.\n\nتنسيق المجموعات\n- المعتمرون.\n- الفنادق.\n- النقل.\n- التنسيق في السعودية."
+      },
+      "fr": {
+        "title": "Structure interne",
+        "content": "Quatre domaines principaux ont été définis :\n\nAdministration — affaires administratives et organisationnelles.\n\nRelations professionnelles — compagnies aériennes, agences, B2B, partenaires.\n\nProgrammes et marketing — conception des programmes ; marketing sur Facebook, Instagram et TikTok ; publicité ; contenu.\n\nCoordination des groupes — pèlerins, hôtels, transport, coordination en Arabie Saoudite."
+      },
+      "en": {
+        "title": "Internal structure",
+        "content": "Four main areas have been defined:\n\nAdministration — administrative and organisational affairs.\n\nProfessional relations — airlines, agencies, B2B, partners.\n\nProgrammes and marketing — programme design; marketing on Facebook, Instagram and TikTok; advertising; content.\n\nGroup coordination — pilgrims, hotels, transport, coordination in Saudi Arabia."
+      }
+    }
+  ]
+}
